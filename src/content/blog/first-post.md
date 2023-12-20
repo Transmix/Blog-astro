@@ -1,16 +1,24 @@
 ---
-title: 'First post'
+title: 'Tipos de Patines'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
-heroImage: '/placeholder-hero.jpg'
+pubDate: 'Dec 8 2022'
+heroImage: '/patines-en-linea.png'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Existen diferentes tipos de patines con ruedas para distintas habilidades o estilos de patinaje y las mejores  marcas son aquellas que tienen un alcance mas profesional de momento en listaremos aqui algunas de las clasificaciones que existen:
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+* Patines Fitnes
+* Patines Freeskate
+* Patines Quads, clasicos o artisticos
+* Patines Freestyle Slalom
+* Patines Agresivos
+* Patines para Hokey
+* Patines Decenso
+* Patines Velocidad
+* Patines Todo Terreno
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+Haci que antes de aprender a patinar, tienes que pensar qué tipo de patín necesitas para iniciar. Cada uno tiene sus ventajas y desventajas, hay diferentes gustos para aprender a patinar. Pero lo recomendado cuando uno empieza a patinar es usar unos patines tipo Freeskate si loo que te gusta es los patines en linea, ya que estos tienen la bota más rígida en la parte del tobillo, lo cual ayuda al principio para evitar lesiones en el tobillo.
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+Por mencionar un ejemplo los patines Fitness son más suaves y ligeros en su estructura, y son más adecuados para lugares planos y con pocos obstáculos. Los Freeskate tienen varias ventajas, aparte de su estabilidad. Yo diría que son casi todo terreno, aun  que depende de las ruedas para poder ser todo terreno. Pero volviendo a lo recomendado para cuando empiezas, en mi opinion son los patines Freeskate; estos los sentirás más firmes. También, no recomendaría unos patines comerciales de los baratos, ya que si uno desea aprender a patinar, estos suelen ser muy frágiles y sus ruedas tienden a atorarse fácil con pequeñas piedras que podrían lesionarte si no sabes aún patinar. Lo recomendable es buscar una marca que no sea tan cara, pero que esté dentro del rango de un patín de buen nivel, casi profesional. Existen diferentes marcas y opciones dependiendo del país en que te encuentres. En otro post hablaremos sobre las características y marcas diferentes que existen, y las más reconocidas, y otras que solo existen en algunos países que, en ocasiones, no hay por citar un ejemplo en mi caso particular en México hay marcas que son escasas por aqui pero en otros lugares son muy comunes.
+
