@@ -1,6 +1,6 @@
 ---
 title: 'Tipos de Patines'
-description: 'Lorem ipsum dolor sit amet'
+description: 'Eleccion de los primeros patines'
 pubDate: 'Dec 8 2022'
 heroImage: '/patines-en-linea.png'
 ---
