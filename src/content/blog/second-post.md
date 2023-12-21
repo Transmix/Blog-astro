@@ -25,7 +25,7 @@ Hay diferentes versiones de la misma transmisión con diferencias bastante signi
 4. Cuerpo de Válvulas.
 5. Los Solenoides.
 
-Existen diferentes fallas que se pueden presentar en este tipo de transmisiones, desde ruidos, problemas de golpe en los cambios ascendentes o descendentes y las causas pueden ser diversas. Es difícil determinar exactamente qué ocasiona los síntomas sin antes hacer una revisión general de la transmisión en la cual consiste en verificar el nivel de aceite, saber si este ha tenido sus mantenimientos a tiempo o si ha pasado mucho tiempo o si tiene mucho kilometraje sin ningún tipo de cambio de aceite. Es necesario, en ocasiones, verificar si este necesita ser escaneado con equipo profesional y, dependiendo de los síntomas que se estén presentando, se determina el camino a seguir.
+Existen diferentes fallas que se pueden presentar en este tipo de transmisiones, desde ruidos, problemas de golpe en los cambios ascendentes o descendentes y las causas pueden ser diversas. Es difícil determinar exactamente qué ocasiona los síntomas sin antes hacer una revisión general de la transmisión en la cual consiste desde verificar el nivel de aceite, saber si este ha tenido sus mantenimientos a tiempo o si ha pasado mucho tiempo o kilometraje sin ningún tipo de cambio de aceite. Es necesario, en ocasiones, verificar si este necesita ser escaneado con equipo profesional, dicho esto dependiendo de los síntomas que se estén presentando, se determina el camino a seguir.
 
 De momento, iremos agregando el contenido de este artículo poco a poco.
 
